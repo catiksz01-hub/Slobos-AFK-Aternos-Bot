@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "heartgrabber.falixsrv.me",
+    "ip": "heartgrabbero.falixsrv.me",
     "port": 23257,
     "version": "1.21.11",
     "try-creative": false
